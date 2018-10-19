@@ -22,21 +22,21 @@
     </item>
     
     <item>
-      <title></title>
-      <link>https://sidhantmisra.github.io/home/about/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0600</pubDate>
-      
-      <guid>https://sidhantmisra.github.io/home/about/</guid>
-      <description>Biography I am a staff scientist in the Applied Mathematics group at the Los Alamos National Laboratory, and part of the advanced network science initiative (ANSI). My research interests lie at the intersection of optimization and machine learning with application in power systems and other infrastructure systems.</description>
-    </item>
-    
-    <item>
       <title>Academic</title>
       <link>https://sidhantmisra.github.io/home/hero/</link>
       <pubDate>Sun, 15 Oct 2017 00:00:00 -0600</pubDate>
       
       <guid>https://sidhantmisra.github.io/home/hero/</guid>
       <description>The highly flexible website framework for Hugo with an extensible plugin mechanism. Create a beautifully simple site in under 10 minutes 🚀 Latest release   Star</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://sidhantmisra.github.io/home/about/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0600</pubDate>
+      
+      <guid>https://sidhantmisra.github.io/home/about/</guid>
+      <description>Biography I am a staff scientist in the Applied Mathematics group at the Los Alamos National Laboratory, and part of the Advanced Network Science Initiative. My research interests lie at the intersection of optimization and machine learning with application in power systems and other infrastructure systems.</description>
     </item>
     
     <item>

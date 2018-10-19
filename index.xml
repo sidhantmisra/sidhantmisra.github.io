@@ -10,5 +10,140 @@
     <lastBuildDate>Sun, 15 Oct 2017 00:00:00 -0600</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
+    <item>
+      <title>Learning for Convex Optimization</title>
+      <link>https://sidhantmisra.github.io/publication/misra2018learning/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 -0700</pubDate>
+      
+      <guid>https://sidhantmisra.github.io/publication/misra2018learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Statistical Learning For DC Optimal Power Flow</title>
+      <link>https://sidhantmisra.github.io/publication/ng2018statistical/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 -0700</pubDate>
+      
+      <guid>https://sidhantmisra.github.io/publication/ng2018statistical/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Corrective control to handle forecast uncertainty: A chance constrained optimal power flow</title>
+      <link>https://sidhantmisra.github.io/publication/roald2017corrective/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0700</pubDate>
+      
+      <guid>https://sidhantmisra.github.io/publication/roald2017corrective/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Graphical models for optimal power flow</title>
+      <link>https://sidhantmisra.github.io/publication/dvijotham2017graphical/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0700</pubDate>
+      
+      <guid>https://sidhantmisra.github.io/publication/dvijotham2017graphical/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A generalized bass model for product growth in networks</title>
+      <link>https://sidhantmisra.github.io/publication/manshadi2016generalized/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 -0700</pubDate>
+      
+      <guid>https://sidhantmisra.github.io/publication/manshadi2016generalized/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A note on alternating minimization algorithm for the matrix completion problem</title>
+      <link>https://sidhantmisra.github.io/publication/gamarnik2016note/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 -0700</pubDate>
+      
+      <guid>https://sidhantmisra.github.io/publication/gamarnik2016note/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interaction screening: Efficient and sample-optimal learning of Ising models</title>
+      <link>https://sidhantmisra.github.io/publication/vuffray2016interaction/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 -0700</pubDate>
+      
+      <guid>https://sidhantmisra.github.io/publication/vuffray2016interaction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Monotone order properties for control of nonlinear parabolic PDE on graphs</title>
+      <link>https://sidhantmisra.github.io/publication/misra2016monotone/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 -0700</pubDate>
+      
+      <guid>https://sidhantmisra.github.io/publication/misra2016monotone/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Monotonicity of actuated flows on dissipative transport networks</title>
+      <link>https://sidhantmisra.github.io/publication/zlotnik2016monotonicity/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 -0700</pubDate>
+      
+      <guid>https://sidhantmisra.github.io/publication/zlotnik2016monotonicity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimal power flow with wind power control and limited expected risk of overloads</title>
+      <link>https://sidhantmisra.github.io/publication/roald2016optimal/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 -0700</pubDate>
+      
+      <guid>https://sidhantmisra.github.io/publication/roald2016optimal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Temporal reachability in dynamic networks</title>
+      <link>https://sidhantmisra.github.io/publication/hagberg2016temporal/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 -0700</pubDate>
+      
+      <guid>https://sidhantmisra.github.io/publication/hagberg2016temporal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unit commitment with n-1 security and wind uncertainty</title>
+      <link>https://sidhantmisra.github.io/publication/sundar2016unit/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 -0700</pubDate>
+      
+      <guid>https://sidhantmisra.github.io/publication/sundar2016unit/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Giant component in random multipartite graphs with given degree sequences</title>
+      <link>https://sidhantmisra.github.io/publication/gamarnik2015giant/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 -0700</pubDate>
+      
+      <guid>https://sidhantmisra.github.io/publication/gamarnik2015giant/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Maximum throughput problem in dissipative flow networks with application to natural gas systems</title>
+      <link>https://sidhantmisra.github.io/publication/misra2015maximum/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 -0700</pubDate>
+      
+      <guid>https://sidhantmisra.github.io/publication/misra2015maximum/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Monotonicity of dissipative flow networks renders robust maximum profit problem tractable: General analysis and application to natural gas flows</title>
+      <link>https://sidhantmisra.github.io/publication/vuffray2015monotonicity/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 -0700</pubDate>
+      
+      <guid>https://sidhantmisra.github.io/publication/vuffray2015monotonicity/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
