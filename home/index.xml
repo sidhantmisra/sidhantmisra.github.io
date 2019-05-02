@@ -68,11 +68,23 @@
     
     <item>
       <title>Recent Publications</title>
+      <link>https://sidhantmisra.github.io/home/publications_old/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0600</pubDate>
+      
+      <guid>https://sidhantmisra.github.io/home/publications_old/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Selected Publications</title>
       <link>https://sidhantmisra.github.io/home/publications/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0600</pubDate>
       
       <guid>https://sidhantmisra.github.io/home/publications/</guid>
-      <description></description>
+      <description>Machine Learning  Efficient Learning of Discrete Graphical Models M. Vuffray, S. Misra, A.Y. Lokhov ArXiv, 2019, [PDF]
+ Optimal Structure and Parameter Learning of Ising Models A.Y. Lokhov, M. Vuffray, S. Misra, M. Chertkov Science Advances, 2018, [PDF]
+ Interaction Screening: Efficient and Sample-Optimal Learning of Ising Models M. Vuffray, S. Misra, A.Y. Lokhov, M. Chertkov Advances in Neural Information Processing Systems (NeurIPS), 2016, [PDF]
+ Information Theoretic Optimal Learning of Gaussian Graphical Models</description>
     </item>
     
     <item>
